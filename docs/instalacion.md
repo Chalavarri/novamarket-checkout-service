@@ -23,3 +23,4 @@ Verificar que el servicio inicie correctamente y procese solicitudes de prueba.
 ## Error común que debe evitarse
 
 No configurar correctamente las variables de entorno.
+> Advertencia: la validación no debe considerarse completa si solo se revisa el contenido del archivo. También debe comprobarse que el entorno local permite ejecutar el flujo documentado.
